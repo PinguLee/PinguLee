@@ -1,4 +1,4 @@
-### I love 💻 🎹
+# I love 💻 🎹
 
-## 🙋🏻‍♂️ About me
-
+## Hello, my name is Pingu Lee
+I'm a developer regardless of language.
